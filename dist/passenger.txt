@@ -1,0 +1,7 @@
+Mazen,10000.0,mazen,mazen
+Mostafa,50000.0,mostafa,mostafa
+Omar,100000.0,omar,omar
+Mohamed,0.0,mohamed,mohamed
+Ahmed,0.0,ahmed,ahmed
+Reda,0.0,reda,reda
+Akram,0.0,akram,akram
